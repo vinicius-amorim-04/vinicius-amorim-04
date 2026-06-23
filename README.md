@@ -1,14 +1,14 @@
-# Olá, eu sou Vinícius Amorim 👋
+# Olá, eu sou Vinícius Amorim 
 
-💻 Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas.
+ Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas.
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - Estudando desenvolvimento de software
 - Focado em aprender boas práticas de programação
 - Sempre buscando evoluir através de projetos práticos
 
-## 🛠️ Tecnologias que vou aprender
+## Tecnologias que vou aprender
 
 ### Linguagens
 - JavaScript
@@ -29,33 +29,25 @@
 - GitHub
 - VS Code
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### Nome do Projeto 1
-Descrição curta do projeto.
+### https://github.com/vinicius-amorim-04/Programacao-e-Algoritimo
+Programação e Algoritmo: Disciplina que ensina os fundamentos da lógica de programação e da criação de algoritmos. O aluno aprende a analisar problemas, desenvolver soluções estruturadas e implementar programas utilizando linguagens de programação.
 
-🔗 Repositório: LINK
+### https://github.com/vinicius-amorim-04/Interface-Web
+Interface Web: Foca no desenvolvimento de páginas e aplicações para a web, abordando conceitos de design, usabilidade, acessibilidade e tecnologias como HTML, CSS e JavaScript para criar interfaces interativas e responsivas.
 
-### Nome do Projeto 2
-Descrição curta do projeto.
+### https://github.com/vinicius-amorim-04/Arte-Digital
+Arte Digital: Estuda a criação artística utilizando ferramentas digitais. Engloba edição de imagens, ilustração, animação e produção de conteúdos visuais para diferentes mídias, combinando criatividade e tecnologia.
 
-🔗 Repositório: LINK
+### https://github.com/vinicius-amorim-04/Projetos-de-Tecnologia-da-Informacao-e-Comunicacao
+Projetos de Tecnologia da Informação e Comunicação (TIC): Disciplina voltada ao planejamento, desenvolvimento e gestão de projetos tecnológicos. Aborda metodologias de trabalho, organização de equipes, análise de requisitos e implementação de soluções que utilizam recursos de tecnologia da informação e comunicação.
 
-### Nome do Projeto 3
-Descrição curta do projeto.
-
-🔗 Repositório: LINK
-
-## 📈 Estatísticas
+##  Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-amorim-04&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-amorim-04&layout=compact&theme=tokyonight)
 
-## 📫 Contato
-
-- LinkedIn: seu-linkedin
-- Email: seu-email@email.com
-
 ---
-⭐ Sempre aprendendo e construindo novos projetos.
+ Sempre aprendendo e construindo novos projetos.
