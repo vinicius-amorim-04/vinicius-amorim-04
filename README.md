@@ -8,7 +8,7 @@
 - Focado em aprender boas práticas de programação
 - Sempre buscando evoluir através de projetos práticos
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias que vou aprender
 
 ### Linguagens
 - JavaScript
