@@ -1,5 +1,7 @@
 # Olá, eu sou Vinícius Amorim 
 
+### https://upload.wikimedia.org/wikipedia/commons/2/27/SCCorinthians_Paulista_1910.png
+
  Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas.
 
 ## Sobre mim
