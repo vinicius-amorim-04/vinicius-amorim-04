@@ -58,3 +58,7 @@ Projetos de Tecnologia da Informação e Comunicação (TIC): Disciplina voltada
 
 ## Certificados dos cursos
 
+
+<p align="center">
+  <img src="web-development-fundamentals.png" alt="Web Development Fundamentals" width="300">
+</p>
