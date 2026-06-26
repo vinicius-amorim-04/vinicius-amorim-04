@@ -58,8 +58,8 @@ Projetos de Tecnologia da Informação e Comunicação (TIC): Disciplina voltada
 
 ## Certificados dos cursos
 
-<img width="600" height="600" alt="WhatsApp Image 2026-06-26 at 11 59 15" src="https://github.com/user-attachments/assets/fbc63208-3bc6-4b59-90b4-31f7a46d605d" />
-
-<img width="600" height="600" alt="WhatsApp Image 2026-06-26 at 12 03 30" src="https://github.com/user-attachments/assets/102163dc-8d80-42d1-af97-54c5aa3c4846" />
-
-<img width="600" height="600" alt="WhatsApp Image 2026-06-26 at 12 05 59" src="https://github.com/user-attachments/assets/dc74216d-7c90-40e3-8d22-4e339fd2bdaa" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbc63208-3bc6-4b59-90b4-31f7a46d605d" width="250" alt="Certificado 1"/>
+  <img src="https://github.com/user-attachments/assets/102163dc-8d80-42d1-af97-54c5aa3c4846" width="250" alt="Certificado 2"/>
+  <img src="https://github.com/user-attachments/assets/dc74216d-7c90-40e3-8d22-4e339fd2bdaa" width="250" alt="Certificado 3"/>
+</p>
