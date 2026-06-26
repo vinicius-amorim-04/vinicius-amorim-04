@@ -55,3 +55,6 @@ Projetos de Tecnologia da Informação e Comunicação (TIC): Disciplina voltada
 
 ---
  Sempre aprendendo e construindo novos projetos.
+
+## Certificados dos cursos
+
